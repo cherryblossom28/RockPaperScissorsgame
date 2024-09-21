@@ -1,4 +1,4 @@
-In this project, i build a **Rock Paper Scissors**.
+This is a **Rock Paper Scissors Game**.
 
 ### Refer to the image below:
 
