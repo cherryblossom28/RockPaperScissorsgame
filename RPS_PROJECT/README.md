@@ -124,7 +124,7 @@ The app must have the following functionalities
 <details>
 <summary>Image URLs</summary>
 
-- [https://assets.ccbp.in/frontend/react-js/rock-paper-scissor/rules-image.png](https://assets.ccbp.in/frontend/react-js/rock-paper-scissor/rules-image.png) alt should be **rules**
+
 
 </details>
 
